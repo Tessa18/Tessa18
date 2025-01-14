@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Srushti_patil
 - 👀 I’m interested in Software development and machine learning.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects which include python and software development.
-- 📫 Reach me @srushtibpatil0009@gmail.com
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 📫 Reach me @patil.srus@northeastern.edu
 
 <!---
 Tessa18/Tessa18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
